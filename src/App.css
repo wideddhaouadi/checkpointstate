@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+h2,h1{
+text-align: center;
+
+}
+img{
+ margin-left: 30%;
+}
+button{
+  width: 20%;
+  margin-left: 35%;
+}
